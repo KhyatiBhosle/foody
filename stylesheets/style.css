@@ -1,0 +1,240 @@
+body{
+    font-family: 'Josefin Slab', serif;
+    font-weight: 800;
+    background-image: url(https://images.freekaamaal.com/post_images/1606817930.jpg);
+    background-attachment: fixed;   
+}
+
+hr{   
+    border-style: none;
+    border-top-style: dotted;
+    border-width: 5px;
+    height: 0px;
+    width: 6%;
+    border-color: #ff4b5c;
+}
+
+ /* Navigation Bar */
+
+.navbar{ 
+    padding-bottom: 0;
+    background-color: #1d1d1f;
+}
+
+
+.navbar-brand{
+    font-size: 200%;
+    padding: 0;
+    font-family: 'Cookie', cursive;
+    margin:0;
+    
+}
+
+
+.navbar-nav{
+    font-size: 130%;
+}
+
+.nav-item{
+    padding: 0 18px;
+    font-weight: normal;
+}
+
+/* TITLe */
+#title{
+    text-align: center;
+    
+    height: 100vh;
+    color: white;
+}
+
+.tp1{
+    font-size: 150%;
+    font-weight: normal;
+}
+
+.th1{
+    padding-top: 20%;
+    font-family: 'Sacramento', cursive;
+    font-size: 400%;
+    margin-bottom: 0;
+    font-weight: bold;
+} 
+
+/* My recipes*/
+#myrecipes{
+    background-color: #1d1d1f;
+}
+
+.mr-images{
+    width: 90%;
+    border-radius: 100%;
+    text-align: right;
+}
+
+.mr-images:hover{
+    width:87%;
+    border-radius: 100%;
+    text-align: right;
+}
+
+.col-md-4{
+    color: #dddddd;
+    font-size: 120%;
+    font-weight: normal;
+    padding: 3% 1%;
+}
+.col-md-2{
+    padding: 3% 1%;
+}
+
+.mrh1{
+    font-family: 'Sacramento', cursive;
+    color: #ff4b5c;
+}
+
+.mrh1:hover{
+    font-family: 'Sacramento', cursive;
+    color: #ff4b5c;
+    font-weight: normal;
+    text-decoration: none;
+    font-size:105%;
+}
+
+.text{
+    color: white;
+}
+
+.text:hover{
+    text-decoration: none;
+    color: white;
+}
+
+.vmr{
+    border-radius: 24px;
+    margin-bottom: 2%;
+    align-self: center;
+}
+
+
+
+/* for better experience */
+.fbeh1{
+    font-family: 'Sacramento', cursive;
+    font-size: 320%;
+    padding-top: 15%;
+    color: #ff4b5c;
+}
+
+.fbep1{
+    font-family: 'Josefin Slab', serif;
+    font-size: 120%;   
+    color: #ff4b5c;
+}
+
+#forbetterexp{
+    background-color: #1d1d1f;
+}
+
+.container-fluid{
+    padding: 3% 7%;   
+}
+
+/* Advantages */
+
+.adv{
+    padding-top:3%;
+    padding-bottom:1%;
+    text-align: center;
+    font-size: 120%;
+    background-color: #1d1d1f;
+    font-weight: normal;
+    color: #ff4b5c;
+}
+.row{
+    margin:0;
+}
+.col-4{
+    padding: 0;
+}
+.fa-check-circle{
+    color: #ff4b5c;
+    padding-bottom: 2%;
+}
+
+.fa-fire{
+    color: #ff4b5c;
+    padding-bottom: 2%;
+}
+
+.fa-heart{
+    color: #ff4b5c;
+    padding-bottom: 2%;
+}
+
+.advh4{
+    font-family: 'Sacramento', cursive;
+    font-weight: normal;
+    color: whitesmoke;
+}
+
+/* Testimonials */
+
+#testimonials{
+    /* background-color:#79aaaa; */
+    color: #aee1e1;
+    text-align: center;
+}
+
+.pp{
+    width: 10%;
+    border-radius: 100%;
+    margin-top: 2%;
+    
+}
+
+.testimonial1{
+    font-size: 200%;
+    font-weight: normal;
+    margin: 7% 25%;
+}
+/* Contactme */
+#contactus{
+    margin: 5% 0;
+}
+
+.col-3{
+    text-align: center;
+}
+
+.fa-facebook-square{
+    color: white;
+}
+
+.fa-facebook-square:hover{
+    color: #ff4b5c;
+}
+
+.fa-instagram-square{
+    color: white;
+}
+
+.fa-instagram-square:hover{
+    color: #ff4b5c;
+}
+
+.fa-envelope-square{
+    color: white;
+}
+
+.fa-envelope-square:hover{
+    color: #ff4b5c;
+}
+
+.fa-youtube{
+    color: white;
+}
+
+.fa-youtube:hover{
+    color: #ff4b5c;
+}

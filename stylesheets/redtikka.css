@@ -1,0 +1,123 @@
+body{
+    font-family: 'Josefin Slab', serif;
+    font-weight: 800;
+    background-image: url(https://images.freekaamaal.com/post_images/1606817930.jpg);
+    background-attachment: fixed;    
+}
+ /* Navigation Bar */
+
+ .navbar{ 
+    padding-bottom: 0;
+    background-color: #1d1d1f;
+}
+
+
+.navbar-brand{
+    font-size: 200%;
+    padding: 0;
+    font-family: 'Cookie', cursive;
+    margin:0;
+    
+}
+
+
+.navbar-nav{
+    font-size: 130%;
+}
+
+.nav-item{
+    padding: 0 18px;
+    font-weight: normal;
+}
+
+/* TITLe */
+#title{
+    text-align: center;
+    
+    height: 100vh;
+    color: white;
+}
+
+.tp1{
+    font-size: 150%;
+    font-weight: normal;
+}
+
+.th1{
+    padding-top: 20%;
+    font-family: 'Sacramento', cursive;
+    font-size: 400%;
+    margin-bottom: 0;
+    font-weight: bold;
+} 
+
+/*RECIPE*/
+.row{
+    margin: 0;
+}
+
+#recipe{
+    background-color:#1d1d1f;
+    padding: 2%;
+}
+
+.recipe-h2{
+    color: #ff4b5c;
+    font-family: 'Sacramento', cursive;
+}
+
+.col-md-6{
+    color: white;
+    font-weight: normal;
+    font-size: 110%;
+}
+
+.coll1{
+    background-color: rgb(68, 67, 67);
+    padding: 2%;
+}
+
+.coll2{
+    padding: 2%;
+}
+
+/* Contactme */
+#contactus{
+    margin: 5% 0;
+}
+
+.col-3{
+    text-align: center;
+}
+
+.fa-facebook-square{
+    color: white;
+}
+
+.fa-facebook-square:hover{
+    color: #ff4b5c;
+}
+
+.fa-instagram-square{
+    color: white;
+}
+
+.fa-instagram-square:hover{
+    color: #ff4b5c;
+}
+
+.fa-envelope-square{
+    color: white;
+}
+
+.fa-envelope-square:hover{
+    color: #ff4b5c;
+}
+
+.fa-youtube{
+    color: white;
+}
+
+.fa-youtube:hover{
+    color: #ff4b5c;
+}
