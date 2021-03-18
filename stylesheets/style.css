@@ -71,24 +71,28 @@ hr{
 }
 
 .mr-images{
-    width: 12.5vw;
+    width: 29vh;
     border-radius: 100%;
-    text-align: center;
+    vertical-align: middle;
+    padding: 4% 10%;
+    
 }
 
 .mr-images:hover{
-    width:12vw;
+    width:28vh;
     border-radius: 100%;
-    text-align: center;
+    vertical-align: middle;
+    
 }
 
-.col-md-4{
+.col-4{
+
     color: #dddddd;
     font-size: 120%;
     font-weight: normal;
     padding: 3% 1%;
 }
-.col-md-2{
+.col-2{
     padding: 3% 1%;
 }
 
