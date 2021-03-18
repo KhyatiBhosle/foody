@@ -73,16 +73,13 @@ hr{
 .mr-images{
     width: 23vh;
     border-radius: 100%;
-    vertical-align: middle;
     padding-top: 0% ;
-    padding-bottom: 4% ;
+    /* padding-bottom: 4% ; */
 }
 
 .mr-images:hover{
     width:26vh;
-    border-radius: 100%;
-    vertical-align: middle;
-    
+    border-radius: 100%;    
 }
 
 .col-4{
@@ -90,15 +87,18 @@ hr{
     color: #dddddd;
     font-size: 120%;
     font-weight: normal;
-    padding: 3% 1%;
+    /* padding: 3% 1%; */
 }
 .col-2{
-    padding: 3% 1%;
+    /* padding: 0% 2%;
+    padding-right:15%; */
+    vertical-align: middle;    
 }
 
 .mrh1{
     font-family: 'Sacramento', cursive;
     color: #ff4b5c;
+    text-align: center;
 }
 
 .mrh1:hover{
@@ -111,11 +111,15 @@ hr{
 
 .text{
     color: white;
+    text-align: center;
+    font-weight: normal;
+    font-size: 110%;
 }
 
 .text:hover{
     text-decoration: none;
     color: white;
+    
 }
 
 .vmr{
