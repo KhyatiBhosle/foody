@@ -71,15 +71,15 @@ hr{
 }
 
 .mr-images{
-    width: 29vh;
+    width: 23vh;
     border-radius: 100%;
     vertical-align: middle;
-    padding: 4% 10%;
-    
+    padding-top: 0% ;
+    padding-bottom: 4% ;
 }
 
 .mr-images:hover{
-    width:28vh;
+    width:26vh;
     border-radius: 100%;
     vertical-align: middle;
     
