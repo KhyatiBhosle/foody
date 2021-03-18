@@ -73,13 +73,13 @@ hr{
 .mr-images{
     width: 90%;
     border-radius: 100%;
-    text-align: right;
+    text-align: center;
 }
 
 .mr-images:hover{
     width:87%;
     border-radius: 100%;
-    text-align: right;
+    text-align: center;
 }
 
 .col-md-4{
