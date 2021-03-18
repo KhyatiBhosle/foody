@@ -3,9 +3,10 @@ body{
     font-weight: 800;
     background-image: url(https://images.freekaamaal.com/post_images/1606817930.jpg);
     background-attachment: fixed;
-        
-      
-    
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: #464646;    
 }
  /* Navigation Bar */
 
