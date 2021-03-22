@@ -77,11 +77,15 @@ body{
 }
 
 .coll1{
-    background-color: rgb(68, 67, 67);
+    background-color: black;
+    opacity: 80%;
     padding: 2%;
+    color: white;
 }
 
 .coll2{
+    background-color:black;
+    opacity: 80%;
     padding: 2%;
 }
 
