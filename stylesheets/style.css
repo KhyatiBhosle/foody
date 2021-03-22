@@ -71,14 +71,14 @@ hr{
 }
 
 .mr-images{
-    width: 23vh;
+    /* width: 23vh; */
     border-radius: 100%;
     padding-top: 0% ;
     /* padding-bottom: 4% ; */
 }
 
 .mr-images:hover{
-    width:26vh;
+    /* width:26vh; */
     border-radius: 100%;    
 }
 
@@ -87,12 +87,10 @@ hr{
     color: #dddddd;
     font-size: 120%;
     font-weight: normal;
-    /* padding: 3% 1%; */
+    
 }
 .col-2{
-    /* padding: 0% 2%;
-    padding-right:15%; */
-    vertical-align: middle;    
+ vertical-align: middle;
 }
 
 .mrh1{
@@ -210,6 +208,8 @@ hr{
     font-weight: normal;
     margin: 7% 25%;
 }
+
+
 /* Contactme */
 #contactus{
     margin: 5% 0;
