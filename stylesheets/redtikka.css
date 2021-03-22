@@ -8,19 +8,9 @@ body{
     background-size: cover;
     background-color: #464646;
 }
-
-hr{   
-    border-style: none;
-    border-top-style: dotted;
-    border-width: 5px;
-    height: 0px;
-    width: 6%;
-    border-color: #ff4b5c;
-}
-
  /* Navigation Bar */
 
-.navbar{ 
+ .navbar{ 
     padding-bottom: 0;
     background-color: #1d1d1f;
 }
@@ -65,155 +55,39 @@ hr{
     font-weight: bold;
 } 
 
-/* My recipes*/
-#myrecipes{
-    background-color: #1d1d1f;
+/*RECIPE*/
+.row{
+    margin: 0;
 }
 
-.mr-images{
-    /* width: 23vh; */
-    border-radius: 100%;
-    display: table-cell;
-    vertical-align: middle;
-    /* padding-top: 0% ; */
-    /* padding-bottom: 4% ; */
+#recipe{
+    /* background-color:#1d1d1f; */
+    padding: 2%;
 }
 
-.mr-images:hover{
-    /* width:26vh; */
-    border-radius: 100%;
-    vertical-align: middle;    
-}
-
-.col-4{
-
-    color: #dddddd;
-    font-size: 120%;
-    font-weight: normal;
-    
-}
-.col-2{
-vertical-align: ;
-}
-
-.mrh1{
+.recipe-h2{
+    color: #ce2435;
     font-family: 'Sacramento', cursive;
-    color: #ff4b5c;
-    text-align: center;
 }
 
-.mrh1:hover{
-    font-family: 'Sacramento', cursive;
-    color: #ff4b5c;
-    font-weight: normal;
-    text-decoration: none;
-    font-size:105%;
-}
-
-.text{
+.col-md-6{
     color: white;
-    text-align: center;
     font-weight: normal;
     font-size: 110%;
 }
 
-.text:hover{
-    text-decoration: none;
+.coll1{
+    background-color: black;
+    opacity: 80%;
+    padding: 2%;
     color: white;
-    
 }
 
-.vmr{
-    border-radius: 24px;
-    margin-bottom: 2%;
-    align-self: center;
+.coll2{
+    background-color:black;
+    opacity: 80%;
+    padding: 2%;
 }
-
-
-
-/* for better experience */
-.fbeh1{
-    font-family: 'Sacramento', cursive;
-    font-size: 320%;
-    padding-top: 15%;
-    color: #ff4b5c;
-}
-
-.fbep1{
-    font-family: 'Josefin Slab', serif;
-    font-size: 120%;   
-    color: #ff4b5c;
-}
-
-#forbetterexp{
-    background-color: #1d1d1f;
-}
-
-.container-fluid{
-    padding: 3% 7%;   
-}
-
-/* Advantages */
-
-.adv{
-    padding-top:3%;
-    padding-bottom:1%;
-    text-align: center;
-    font-size: 120%;
-    background-color: #1d1d1f;
-    font-weight: normal;
-    color: #ff4b5c;
-}
-.row{
-    margin:0;
-}
-.col-4{
-    padding: 0;
-}
-.fa-check-circle{
-    color: #ff4b5c;
-    padding-bottom: 2%;
-}
-
-.fa-fire{
-    color: #ff4b5c;
-    padding-bottom: 2%;
-}
-
-.fa-heart{
-    color: #ff4b5c;
-    padding-bottom: 2%;
-}
-
-.advh4{
-    font-family: 'Sacramento', cursive;
-    font-weight: normal;
-    color: whitesmoke;
-}
-
-/* Testimonials */
-
-#testimonials{
-    
-    color: white;
-    text-align: center;
-}
-
-.pp{
-    width: 10%;
-    border-radius: 100%;
-    margin-top: 2%;
-    
-}
-
-.testimonial1{
-    background-color: #000;
-    opacity: 60%;
-    font-size: 200%;
-    font-weight: normal;
-    margin: 7% 25%;
-}
-
 
 /* Contactme */
 #contactus{
